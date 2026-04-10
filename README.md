@@ -1,5 +1,5 @@
-# Piece of Table: A Divide-and-Conquer Approach for Selecting Subtables in Table Question Answering 
-[ACL 2026]
+# Piece of Table: A Divide-and-Conquer Approach for Selecting Subtables in Table Question Answering\n[ACL 2026]
+
 [Paper](https://arxiv.org/abs/2412.07629) | [arXiv](https://arxiv.org/abs/2412.07629) | [Citation](#citation)
 
 > Official repository for **"Piece of Table: A Divide-and-Conquer Approach for Selecting Subtables in Table Question Answering"**.
